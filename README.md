@@ -1,5 +1,5 @@
 # getApi
-
+env -> API_URL=https://ireporter-endpoint.herokuapp.com/api/v2/
 ## Build Setup
 
 ```bash
